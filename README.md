@@ -233,7 +233,3 @@ To run the JDBC tests, run `database.sql` first and set `DB_USER` / `DB_PASSWORD
 - Connection pooling (HikariCP or Tomcat `DataSource` via JNDI), pagination for long lists, login throttling.
 - Export of conversations/feedback to CSV, richer analytics charts, multi-language knowledge base.
 - Email notification when the bot cannot answer.
-
-## 17. More documents
-- [`docs/DEMO_SCRIPT.md`](docs/DEMO_SCRIPT.md) - step-by-step live demonstration
-- [`docs/VIVA_QA.md`](docs/VIVA_QA.md) - Java, JDBC and Servlet/JSP viva questions with answers
